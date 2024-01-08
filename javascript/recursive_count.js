@@ -1,5 +1,8 @@
 function recursiveCount(num = 0) {
-  // type your code here
+  while (num <10){
+    console.log(num)
+    num+=1
+  }
 }
 
 if (require.main === module) {
